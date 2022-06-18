@@ -1,0 +1,16 @@
+2022-06-11 10:33:24.021483 - ResourceManagementCurator_515 : curator is active
+2022-06-11 10:33:54.021071 - ResourceManagementCurator_515 : turn on the light
+2022-06-11 10:33:59.002116 - ResourceManagementCurator_515 : the bulb is broken
+2022-06-11 10:33:59.006192 - ResourceManagementCurator_515 : a request has been sent to the curator to call repairer
+2022-06-11 10:34:09.075107 - ResourceManagementCurator_515 : turn off the light
+2022-06-11 10:34:33.131980 - ResourceManagementCurator_515 : energy supply is off
+2022-06-11 10:34:33.135978 - ResourceManagementCurator_515 : emergency lights are switched on
+2022-06-11 10:34:33.143979 - ResourceManagementCurator_515 : the fire breaks out
+2022-06-11 10:36:14.298132 - ResourceManagementCurator_515 : energy supply is switched on
+2022-06-11 10:36:14.364117 - ResourceManagementCurator_515 : emergency lights are off
+2022-06-11 10:36:14.366114 - ResourceManagementCurator_515 : the fire extinguished
+2022-06-11 10:36:18.021203 - ResourceManagementCurator_515 : the bulb is repaired
+2022-06-11 10:36:32.661519 - ResourceManagementCurator_515 : energy supply is off
+2022-06-11 10:36:32.676516 - ResourceManagementCurator_515 : emergency lights are switched on
+2022-06-11 10:36:32.679517 - ResourceManagementCurator_515 : the fire breaks out
+2022-06-11 10:38:40.212163 - ResourceManagementCurator_515 : curator is closed

@@ -1,0 +1,20 @@
+declare time, millis	run time, millis	fact name	fact params	curator type
+2.0474	30.499100000000002	Call	{"0": "repairer", "id": 507, "target": "bulb"}	SecurityCurator
+1.2226000000001847	26.9629000000009	Call	{"0": "repairer", "id": 507, "target": "bulb"}	SecurityCurator
+1.337100000000646	20.091000000000747	Call	{"0": "security"}	SecurityCurator
+1.7015999999969722	38.33529999999996	Call	{"0": "repairer", "id": 507, "target": "bulb"}	SecurityCurator
+0.930199999999104	15.852200000004757	Call	{"0": "repairer", "id": 507, "target": "bulb"}	SecurityCurator
+2.1290999999976634	14.138799999997786	Call	{"0": "security"}	SecurityCurator
+1.9051999999959435	40.553799999997864	Call	{"0": "repairer", "id": 507, "target": "bulb"}	SecurityCurator
+1.6628999999994676	33.73480000000484	Call	{"0": "repairer", "id": 507, "target": "bulb"}	SecurityCurator
+2.560800000011909	32.62610000000166	Call	{"0": "repairer", "id": 507, "target": "bulb"}	SecurityCurator
+2.177700000004279	47.256599999997206	Call	{"0": "repairer", "id": 507, "target": "bulb"}	SecurityCurator
+1.5550999999902615	70.6684000000024	Fire	{"0": true}	SecurityCurator
+1.9568999999961534	31.752699999998413	Call	{"0": "security"}	SecurityCurator
+1.3675999999946953	9.97950000000003	Call	{"0": "repairer", "id": 507, "target": "energy_supply"}	SecurityCurator
+1.4935999999750038	10.175699999990684	Call	{"0": "repairer", "id": 507, "target": "bulb"}	SecurityCurator
+5.372899999997571	10.074099999997088	Call	{"0": "repairer", "id": 507, "target": "bulb"}	SecurityCurator
+1.6176000000029944	12.280700000019351	Call	{"0": "repairer", "id": 507, "target": "bulb"}	SecurityCurator
+2.29440000001091	7.266000000015538	Call	{"0": "repairer", "id": 507, "target": "bulb"}	SecurityCurator
+1.7092999999874792	202.97630000001732	Fire	{"0": false}	SecurityCurator
+1.5716000000054464	41.02090000000658	Call	{"0": "repairer", "id": 507, "target": "bulb"}	SecurityCurator

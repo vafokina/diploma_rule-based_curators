@@ -1,0 +1,25 @@
+.control-panel-back {
+    height: 90px;
+}
+
+.control-panel {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    padding: 2px 5px;
+}
+
+.control-panel-column {
+    display: flex;
+    flex-direction: column;
+    margin: auto 0px;
+}
+
+.control-panel-btn {
+    margin: 2px;
+}
+
+.right {
+    margin-left: auto;
+}

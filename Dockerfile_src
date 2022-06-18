@@ -1,0 +1,38 @@
+*** Для куратора ***
+# установка базового образа (host OS)
+FROM python:3.6
+# установка рабочей директории в контейнере
+WORKDIR /code
+# копирование файла зависимостей в рабочую директорию
+COPY requirements.txt .
+# установка зависимостей
+RUN pip install -r requirements.txt
+# копирование содержимого локальной директории src в рабочую директорию
+COPY config.yml .
+COPY src/ ./src
+# команда, выполняемая при запуске контейнера
+ENTRYPOINT [ "python", "./src/main.py" ]
+
+*** Для системы управления ***
+# установка базового образа (host OS)
+FROM python:3.6
+# установка рабочей директории в контейнере
+WORKDIR /code
+# копирование файла зависимостей в рабочую директорию
+COPY requirements.txt .
+# установка зависимостей
+RUN pip install -r requirements.txt
+# копирование содержимого локальной директории src в рабочую директорию
+COPY config.yml .
+COPY src/ ./src
+# команда, выполняемая при запуске контейнера
+ENTRYPOINT [ "python", "./src/main_startControlSystem.py" ]
+
+*** Для веб-клиента ***
+FROM node:alpine
+WORKDIR /usr/app/front
+EXPOSE 3000
+COPY ./ ./
+RUN npm install bootstrap
+RUN npm install
+CMD ["npm", "start"]

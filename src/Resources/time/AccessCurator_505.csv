@@ -1,0 +1,13 @@
+declare time, millis	run time, millis	fact name	fact params	curator type
+3.0212	13.912099999999999	Access	{"admission": false}	AccessCurator
+1.1128000000013571	19.019200000002456	Access	{"admission": true}	AccessCurator
+1.3205000000020561	58.39870000000147	Violation	{}	AccessCurator
+0.5439999999978795	3.099800000001096	Access	{"admission": true}	AccessCurator
+0.7817999999986114	30.419199999997204	Violation	{}	AccessCurator
+1.3454999999993333	11.971100000010892	Access	{"admission": false}	AccessCurator
+0.6541999999996051	52.41789999999469	Violation	{}	AccessCurator
+0.5352000000016233	31.830400000004033	Fire	{"0": true, "fromCurator": true}	AccessCurator
+0.42339999998830535	6.226400000002741	Violation	{}	AccessCurator
+0.7481000000097993	11.55090000000314	Access	{"admission": false}	AccessCurator
+1.4207999999769072	33.59240000000341	Violation	{}	AccessCurator
+1.2540999999828273	35.87360000000217	Fire	{"0": false, "fromCurator": true}	AccessCurator

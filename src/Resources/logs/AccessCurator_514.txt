@@ -1,0 +1,8 @@
+2022-06-11 10:33:24.019935 - AccessCurator_514 : curator is active
+2022-06-11 10:34:33.164979 - AccessCurator_514 : the fire breaks out
+2022-06-11 10:34:33.170981 - AccessCurator_514 : the entry is blocked to everyone, emergency exits are open
+2022-06-11 10:36:14.327115 - AccessCurator_514 : the fire extinguished
+2022-06-11 10:36:14.345119 - AccessCurator_514 : the entry is restricted, emergency exits are close
+2022-06-11 10:36:32.657518 - AccessCurator_514 : the fire breaks out
+2022-06-11 10:36:32.666517 - AccessCurator_514 : the entry is blocked to everyone, emergency exits are open
+2022-06-11 10:38:38.810340 - AccessCurator_514 : curator is closed

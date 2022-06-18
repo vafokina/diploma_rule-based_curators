@@ -1,0 +1,40 @@
+curator:
+  type: generator # access, security, resource, generator
+  countTime: True
+  controlSystem:
+    host: '192.168.0.168'
+    port: 4000
+  generator:
+    speed: 2
+    generate: True
+    logging: 
+      enable: True
+      provideRecipient: True
+  resource:
+    bulbCount: 4
+
+core:
+  logging:
+    version: 1
+    formatters:
+      formatter:
+        format: "%(asctime)s - %(levelname)s - [%(threadName)s] %(name)s:%(lineno)d : %(message)s"
+    handlers:
+      console:
+        class: "logging.StreamHandler"
+        level: "DEBUG"
+        formatter: "formatter"
+        stream: "ext://sys.stderr"
+    root:
+      level: "DEBUG"
+      handlers: ["console"]
+
+services:
+  database:
+    name: "postgres"
+    user: "postgres"
+    password: "docker"
+    host: "localhost"
+    port: 5432
+  socket:
+    excludePorts: [ 3000, 4000, 5432, 8080 ]

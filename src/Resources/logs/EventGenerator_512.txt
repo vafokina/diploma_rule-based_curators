@@ -1,0 +1,20 @@
+2022-06-11 10:33:23.868664 - EventGenerator_512 : curator is active
+2022-06-11 10:33:23.870661 - EventGenerator_512 : event generation has started
+2022-06-11 10:33:39.037433 - EventGenerator_512 : send event Motion(False)
+2022-06-11 10:33:39.056032 - EventGenerator_512 : event Motion(False) was sent to curator with id 515
+2022-06-11 10:33:53.924068 - EventGenerator_512 : send event Motion(True)
+2022-06-11 10:33:53.934316 - EventGenerator_512 : event Motion(True) was sent to curator with id 515
+2022-06-11 10:33:58.913029 - EventGenerator_512 : send event BrokenBulb()
+2022-06-11 10:33:58.934116 - EventGenerator_512 : event BrokenBulb() was sent to curator with id 515
+2022-06-11 10:34:09.010640 - EventGenerator_512 : send event Motion(False)
+2022-06-11 10:34:09.025102 - EventGenerator_512 : event Motion(False) was sent to curator with id 515
+2022-06-11 10:34:23.030025 - EventGenerator_512 : event generation is stopped
+2022-06-11 10:34:32.776271 - EventGenerator_512 : send event Fire(True)
+2022-06-11 10:34:32.797791 - EventGenerator_512 : event Fire(True) was sent to curator with id 513
+2022-06-11 10:36:13.965150 - EventGenerator_512 : send event Fire(False)
+2022-06-11 10:36:13.977446 - EventGenerator_512 : event Fire(False) was sent to curator with id 513
+2022-06-11 10:36:17.887709 - EventGenerator_512 : send event RepairedBulb()
+2022-06-11 10:36:17.911170 - EventGenerator_512 : event RepairedBulb() was sent to curator with id 515
+2022-06-11 10:36:32.237040 - EventGenerator_512 : send event Fire(True)
+2022-06-11 10:36:32.255249 - EventGenerator_512 : event Fire(True) was sent to curator with id 516
+2022-06-11 10:38:41.001368 - EventGenerator_512 : curator is closed

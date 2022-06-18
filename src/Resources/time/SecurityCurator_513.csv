@@ -1,0 +1,5 @@
+declare time, millis	run time, millis	fact name	fact params	curator type
+0.7274999999999999	15.846599999999999	Call	{"0": "repairer", "id": 515, "target": "bulb"}	SecurityCurator
+0.5281000000039171	46.71739999999858	Fire	{"0": true}	SecurityCurator
+0.5396999999902619	63.0841999999916	Fire	{"0": false}	SecurityCurator
+1.5120000000194977	28.996199999994587	Fire	{"0": true, "fromCurator": true}	SecurityCurator

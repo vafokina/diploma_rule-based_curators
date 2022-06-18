@@ -1,0 +1,12 @@
+2022-06-11 10:33:24.018311 - SecurityCurator_513 : curator is active
+2022-06-11 10:33:59.129824 - SecurityCurator_513 : call to the repairer
+2022-06-11 10:34:32.922799 - SecurityCurator_513 : the fire breaks out
+2022-06-11 10:34:32.928808 - SecurityCurator_513 : alert system is on
+2022-06-11 10:34:32.934969 - SecurityCurator_513 : a notice about the fire has been sent to all curators
+2022-06-11 10:34:32.962986 - SecurityCurator_513 : call to the firefighters
+2022-06-11 10:36:14.092036 - SecurityCurator_513 : the fire extinguished
+2022-06-11 10:36:14.096037 - SecurityCurator_513 : alert system is off
+2022-06-11 10:36:14.113840 - SecurityCurator_513 : a notice about the end of the fire has been sent to all curators
+2022-06-11 10:36:32.611519 - SecurityCurator_513 : the fire breaks out
+2022-06-11 10:36:32.624520 - SecurityCurator_513 : alert system is on
+2022-06-11 10:38:40.107757 - SecurityCurator_513 : curator is closed

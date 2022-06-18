@@ -1,0 +1,4 @@
+declare time, millis	run time, millis	fact name	fact params	curator type
+3.8238	27.4786	Fire	{"0": true, "fromCurator": true}	AccessCurator
+0.393599999995331	23.99270000000797	Fire	{"0": false, "fromCurator": true}	AccessCurator
+0.4540000000048394	40.43610000000797	Fire	{"0": true, "fromCurator": true}	AccessCurator

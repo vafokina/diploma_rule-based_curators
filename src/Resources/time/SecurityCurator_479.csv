@@ -1,0 +1,146 @@
+declare time, millis	run time, millis	fact name	fact params	curator type
+0.6060000000000001	5.1669	Call	{"0": "security"}	SecurityCurator
+0.431399999996529	13.44050000000152	Call	{"0": "security"}	SecurityCurator
+1.4721000000008644	62.62320000000443	Fire	{"0": true}	SecurityCurator
+1.2408000000050379	30.51179999999931	Fire	{"0": false}	SecurityCurator
+0.5146000000024742	7.645400000001246	Call	{"0": "security"}	SecurityCurator
+1.0624000000234446	4.156299999976909	Call	{"0": "security"}	SecurityCurator
+0.4480999999998403	2.8924000000074557	Call	{"0": "security"}	SecurityCurator
+1.2613999999757652	12.64090000000806	Call	{"0": "security"}	SecurityCurator
+0.5850999999665873	80.58799999997746	Fire	{"0": true}	SecurityCurator
+0.5257999999912499	4.535999999973228	Call	{"0": "security"}	SecurityCurator
+0.945599999965907	11.686399999973673	Call	{"0": "repairer", "id": 481, "target": "energy_supply"}	SecurityCurator
+0.6103000000052816	31.928800000002866	Fire	{"0": false}	SecurityCurator
+0.4794999999830907	13.508800000010979	Call	{"0": "repairer", "id": 481, "target": "energy_supply"}	SecurityCurator
+0.5212000000369699	3.2353000000284737	Call	{"0": "security"}	SecurityCurator
+0.5663000000026841	4.664800000000469	Call	{"0": "security"}	SecurityCurator
+0.4450000000133514	3.0594999999493666	Call	{"0": "security"}	SecurityCurator
+0.5515999999943233	8.004599999992479	Call	{"0": "security"}	SecurityCurator
+0.47979999999370193	4.842899999971451	Call	{"0": "security"}	SecurityCurator
+0.8440999999947962	5.665399999998044	Call	{"0": "security"}	SecurityCurator
+0.605800000016643	9.559599999988677	Call	{"0": "security"}	SecurityCurator
+1.2271999999597938	112.05809999995608	Fire	{"0": true}	SecurityCurator
+0.6008999999949083	4.440999999985706	Call	{"0": "security"}	SecurityCurator
+0.614300000052026	4.487299999993866	Call	{"0": "repairer", "id": 481, "target": "energy_supply"}	SecurityCurator
+0.7651000000237218	61.56140000001642	Fire	{"0": false}	SecurityCurator
+0.5016000000068743	5.041000000005624	Call	{"0": "security"}	SecurityCurator
+0.6382999999914318	4.470800000035524	Call	{"0": "security"}	SecurityCurator
+0.5225999999538544	8.44609999990098	Call	{"0": "security"}	SecurityCurator
+1.358100000061313	32.05820000005133	Fire	{"0": true}	SecurityCurator
+1.5872000000172193	11.50140000004285	Call	{"0": "repairer", "id": 481, "target": "energy_supply"}	SecurityCurator
+1.5065000000049622	74.72800000005009	Fire	{"0": false}	SecurityCurator
+0.6079999999428765	5.342499999983374	Call	{"0": "security"}	SecurityCurator
+0.5654999999933352	40.847999999982676	Fire	{"0": true}	SecurityCurator
+2.2864000000026863	66.71170000004167	Fire	{"0": false}	SecurityCurator
+0.8252000000084081	44.961800000010044	Fire	{"0": true}	SecurityCurator
+0.6848000000445609	4.548399999976027	Call	{"0": "repairer", "id": 481, "target": "energy_supply"}	SecurityCurator
+0.6315000000540749	66.73449999993863	Fire	{"0": false}	SecurityCurator
+0.5399000000352316	14.102500000035434	Call	{"0": "repairer", "id": 481, "target": "energy_supply"}	SecurityCurator
+0.5947000000787739	41.53850000000148	Fire	{"0": true}	SecurityCurator
+0.7461000000148488	31.774100000120598	Fire	{"0": false}	SecurityCurator
+0.5171999998765386	23.380900000120164	Call	{"0": "repairer", "id": 481, "target": "energy_supply"}	SecurityCurator
+0.5370000001221342	4.369799999949464	Call	{"0": "security"}	SecurityCurator
+0.642799999923227	5.152899999984584	Call	{"0": "security"}	SecurityCurator
+0.593699999853925	3.869399999985035	Call	{"0": "security"}	SecurityCurator
+1.0240999999950873	68.0534999999054	Fire	{"0": true}	SecurityCurator
+0.6203999998888321	16.85270000007222	Call	{"0": "repairer", "id": 481, "target": "energy_supply"}	SecurityCurator
+0.6206999998994434	50.856399999929636	Fire	{"0": false}	SecurityCurator
+0.7831999998870742	9.913399999959438	Call	{"0": "repairer", "id": 481, "target": "energy_supply"}	SecurityCurator
+2.2868999999445805	13.950300000033167	Call	{"0": "security"}	SecurityCurator
+0.7894999998825369	42.36359999981687	Fire	{"0": true}	SecurityCurator
+0.6140000000414148	5.550900000116599	Call	{"0": "repairer", "id": 481, "target": "energy_supply"}	SecurityCurator
+0.6472000000030675	43.02179999990585	Fire	{"0": false}	SecurityCurator
+0.8525999999164924	11.208599999918079	Call	{"0": "repairer", "id": 481, "target": "energy_supply"}	SecurityCurator
+0.42940000003000023	4.569899999978588	Call	{"0": "security"}	SecurityCurator
+0.6482000001142296	43.02559999996447	Fire	{"0": true}	SecurityCurator
+0.6845999998859043	4.9449999999069405	Call	{"0": "repairer", "id": 481, "target": "energy_supply"}	SecurityCurator
+1.175699999976132	51.33690000002389	Fire	{"0": false}	SecurityCurator
+0.7060000000365108	14.816800000062358	Call	{"0": "repairer", "id": 481, "target": "energy_supply"}	SecurityCurator
+0.8481999998366518	46.54870000013034	Fire	{"0": true}	SecurityCurator
+0.6605999999464984	3.911500000185697	Call	{"0": "repairer", "id": 481, "target": "energy_supply"}	SecurityCurator
+0.7387000000562693	48.8961000000927	Fire	{"0": false}	SecurityCurator
+0.680600000123377	12.391600000000835	Call	{"0": "repairer", "id": 481, "target": "energy_supply"}	SecurityCurator
+0.5783999999948719	4.821400000082576	Call	{"0": "security"}	SecurityCurator
+0.5646000001888751	40.503599999965445	Fire	{"0": true}	SecurityCurator
+0.5667999998877349	7.1259999999711	Call	{"0": "repairer", "id": 481, "target": "energy_supply"}	SecurityCurator
+0.9867999999642052	48.805800000081945	Fire	{"0": false}	SecurityCurator
+0.6106999999246909	10.632400000076814	Call	{"0": "repairer", "id": 481, "target": "energy_supply"}	SecurityCurator
+0.5585000001246954	9.857800000190764	Call	{"0": "security"}	SecurityCurator
+0.7825000000138971	3.3260000000154832	Call	{"0": "security"}	SecurityCurator
+1.0890000000927103	8.840400000053705	Call	{"0": "security"}	SecurityCurator
+0.5617999997866718	3.378800000064075	Call	{"0": "security"}	SecurityCurator
+0.5479999999806751	34.59700000007615	Fire	{"0": true}	SecurityCurator
+0.5771000001004722	6.676900000002206	Call	{"0": "repairer", "id": 481, "target": "energy_supply"}	SecurityCurator
+1.4651999999841792	72.19469999995454	Fire	{"0": false}	SecurityCurator
+0.5019000000174856	4.974500000116677	Call	{"0": "security"}	SecurityCurator
+0.9658999999828666	14.473299999963274	Call	{"0": "security"}	SecurityCurator
+0.5218000001150358	4.574999999931606	Call	{"0": "security"}	SecurityCurator
+0.5913999998483632	4.3811999998979445	Call	{"0": "security"}	SecurityCurator
+0.6035000001247681	4.74490000010519	Call	{"0": "security"}	SecurityCurator
+0.7010999997874023	5.278000000089378	Call	{"0": "security"}	SecurityCurator
+0.4552000000330736	2.9010000002926972	Call	{"0": "security"}	SecurityCurator
+0.6108000002313929	33.182399999986956	Fire	{"0": true}	SecurityCurator
+0.6838999997853534	37.79919999988124	Fire	{"0": false}	SecurityCurator
+0.5558000002565677	7.529599999998027	Call	{"0": "repairer", "id": 481, "target": "energy_supply"}	SecurityCurator
+1.1647000001175911	5.903799999941839	Call	{"0": "security"}	SecurityCurator
+1.741500000207452	5.0902000002679415	Call	{"0": "security"}	SecurityCurator
+1.537099999950442	6.796800000302028	Call	{"0": "security"}	SecurityCurator
+0.7817999999133463	4.935200000090845	Call	{"0": "security"}	SecurityCurator
+0.5007999998269952	4.842400000143243	Call	{"0": "security"}	SecurityCurator
+0.8311000001413049	47.97899999994115	Fire	{"0": true}	SecurityCurator
+0.5138000001352339	4.179600000043138	Call	{"0": "repairer", "id": 481, "target": "energy_supply"}	SecurityCurator
+0.5863999999746738	47.02289999977438	Fire	{"0": false}	SecurityCurator
+0.7717999997112202	12.191299999813054	Call	{"0": "repairer", "id": 481, "target": "energy_supply"}	SecurityCurator
+0.6761999998161627	34.95390000034604	Fire	{"0": true}	SecurityCurator
+0.5480999998326297	21.32320000009713	Fire	{"0": false}	SecurityCurator
+0.6480000001829467	5.621300000257179	Call	{"0": "security"}	SecurityCurator
+1.000199999907636	3.499299999930372	Call	{"0": "security"}	SecurityCurator
+0.48819999983606976	5.452599999898666	Call	{"0": "security"}	SecurityCurator
+0.6425000001399894	3.0815999998594634	Call	{"0": "security"}	SecurityCurator
+0.742799999898125	5.719399999634334	Call	{"0": "security"}	SecurityCurator
+0.7598000001962646	56.05389999982435	Fire	{"0": true}	SecurityCurator
+1.2099000000489468	70.26129999985642	Fire	{"0": false}	SecurityCurator
+0.6066000000828353	20.193299999846204	Fire	{"0": true}	SecurityCurator
+0.5382999997891602	2.6786000003085064	Call	{"0": "repairer", "id": 481, "target": "energy_supply"}	SecurityCurator
+1.3727999998991436	50.96330000014859	Fire	{"0": false}	SecurityCurator
+1.338699999905657	14.017599999988306	Call	{"0": "security"}	SecurityCurator
+0.6942999998500454	3.5413999999036605	Call	{"0": "security"}	SecurityCurator
+0.509299999976065	2.7850000001308217	Call	{"0": "security"}	SecurityCurator
+0.705199999629258	37.6578000000336	Fire	{"0": true}	SecurityCurator
+0.7571999999527179	24.50669999961974	Fire	{"0": false}	SecurityCurator
+1.6648999999233638	20.3470000001289	Call	{"0": "security"}	SecurityCurator
+0.5611000001408684	9.33939999958966	Call	{"0": "security"}	SecurityCurator
+0.5912999999964086	4.830500000025495	Call	{"0": "security"}	SecurityCurator
+1.5493000000788015	6.336000000374042	Call	{"0": "security"}	SecurityCurator
+0.6500000004052708	28.181900000163296	Call	{"0": "security"}	SecurityCurator
+0.5852999997841835	5.466300000080082	Call	{"0": "security"}	SecurityCurator
+0.6326000002445653	12.059099999987666	Call	{"0": "security"}	SecurityCurator
+0.4825999999411579	5.8006999997815	Call	{"0": "security"}	SecurityCurator
+0.6220999998731713	5.536699999993289	Call	{"0": "security"}	SecurityCurator
+0.5253000003904162	31.57450000026074	Fire	{"0": true}	SecurityCurator
+0.5712000001949491	4.194999999981519	Call	{"0": "repairer", "id": 481, "target": "energy_supply"}	SecurityCurator
+1.629400000183523	44.907899999998335	Fire	{"0": false}	SecurityCurator
+0.6390999997165636	12.224899999637273	Call	{"0": "repairer", "id": 481, "target": "energy_supply"}	SecurityCurator
+1.4080999999350752	6.947600000330567	Call	{"0": "security"}	SecurityCurator
+0.785600000199338	4.344300000411749	Call	{"0": "security"}	SecurityCurator
+0.8717999999134918	4.174800000328105	Call	{"0": "security"}	SecurityCurator
+0.7017000002633722	33.15969999994195	Fire	{"0": true}	SecurityCurator
+0.6540999997923791	4.788300000200252	Call	{"0": "repairer", "id": 481, "target": "energy_supply"}	SecurityCurator
+0.5207000003792928	46.231100000113656	Fire	{"0": false}	SecurityCurator
+1.7760999999154592	5.842999999913445	Call	{"0": "security"}	SecurityCurator
+0.5630999999084452	3.840099999706581	Call	{"0": "security"}	SecurityCurator
+0.5058000001554319	3.4816000002138026	Call	{"0": "security"}	SecurityCurator
+1.6937999998845044	45.68310000013298	Fire	{"0": true}	SecurityCurator
+0.9092999998756568	34.71309999986261	Fire	{"0": false}	SecurityCurator
+0.4818000002160261	3.2003000001168402	Call	{"0": "security"}	SecurityCurator
+0.6601999998565589	4.637800000182324	Call	{"0": "security"}	SecurityCurator
+0.5160000000614673	5.46810000014375	Call	{"0": "security"}	SecurityCurator
+0.5140000002938905	4.148699999859673	Call	{"0": "security"}	SecurityCurator
+1.260900000033871	12.692400000105408	Call	{"0": "security"}	SecurityCurator
+1.3690999999198539	54.558300000280724	Fire	{"0": true}	SecurityCurator
+1.7726999999467807	38.607199999660224	Fire	{"0": false}	SecurityCurator
+0.6668999999419611	13.957199999822478	Call	{"0": "repairer", "id": 481, "target": "energy_supply"}	SecurityCurator
+1.1136000002807123	5.87809999979072	Call	{"0": "security"}	SecurityCurator
+0.9134000001722598	2.7109000002383254	Call	{"0": "security"}	SecurityCurator
+0.5688999999620137	25.852599999780068	Fire	{"0": true}	SecurityCurator
+1.0137000003851426	4.378300000098534	Call	{"0": "repairer", "id": 481, "target": "energy_supply"}	SecurityCurator

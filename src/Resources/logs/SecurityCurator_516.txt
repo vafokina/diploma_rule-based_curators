@@ -1,0 +1,6 @@
+2022-06-11 10:36:22.281949 - SecurityCurator_516 : curator is active
+2022-06-11 10:36:32.401283 - SecurityCurator_516 : the fire breaks out
+2022-06-11 10:36:32.403284 - SecurityCurator_516 : alert system is on
+2022-06-11 10:36:32.413097 - SecurityCurator_516 : a notice about the fire has been sent to all curators
+2022-06-11 10:36:32.452075 - SecurityCurator_516 : call to the firefighters
+2022-06-11 10:38:40.725525 - SecurityCurator_516 : curator is closed

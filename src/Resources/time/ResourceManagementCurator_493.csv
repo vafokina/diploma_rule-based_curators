@@ -1,0 +1,580 @@
+declare time, millis	run time, millis	fact name	fact params	curator type
+1.4881	17.138199999999998	Motion	{"0": true}	ResourceManagementCurator
+0.5314999999992409	1.5291000000008381	Motion	{"0": true}	ResourceManagementCurator
+1.2385000000030288	2.7582999999999913	Motion	{"0": true}	ResourceManagementCurator
+1.0991999999987456	13.333899999999232	Motion	{"0": false}	ResourceManagementCurator
+1.9786000000010517	18.472700000003783	Motion	{"0": true}	ResourceManagementCurator
+3.6871000000076037	18.356400000001827	Motion	{"0": false}	ResourceManagementCurator
+1.3546999999931586	3.3123000000045977	Motion	{"0": false}	ResourceManagementCurator
+0.8214000000066335	2.0299999999906504	Motion	{"0": false}	ResourceManagementCurator
+2.134200000000419	21.974900000003572	Motion	{"0": true}	ResourceManagementCurator
+0.4600999999979649	43.38970000000586	BrokenEnergySupply	{}	ResourceManagementCurator
+0.5240000000128475	1.3638000000071315	Motion	{"0": true}	ResourceManagementCurator
+0.9046000000125787	13.350000000002638	Fire	{"0": true, "fromCurator": true}	ResourceManagementCurator
+1.4682999999990898	6.575800000007348	Motion	{"0": true}	ResourceManagementCurator
+1.4295999999944797	4.759000000007063	Motion	{"0": true}	ResourceManagementCurator
+1.5063999999824773	3.905300000013767	Motion	{"0": true}	ResourceManagementCurator
+0.8266000000105578	4.5785000000080345	Motion	{"0": false}	ResourceManagementCurator
+1.6376000000093427	2.963300000004665	Motion	{"0": true}	ResourceManagementCurator
+0.3738000000055308	26.020799999997735	BrokenEnergySupply	{}	ResourceManagementCurator
+0.8994999999742959	16.05670000000714	Fire	{"0": false, "fromCurator": true}	ResourceManagementCurator
+0.6287999999869953	1.1920000000031905	Motion	{"0": false}	ResourceManagementCurator
+1.5523000000143838	3.621399999985897	Motion	{"0": false}	ResourceManagementCurator
+0.46759999997902923	4.190300000004754	Motion	{"0": false}	ResourceManagementCurator
+0.3462999999896965	11.881999999985737	RepairedEnergySupply	{}	ResourceManagementCurator
+2.861300000006395	5.460400000004029	Motion	{"0": false}	ResourceManagementCurator
+1.6464000000269152	3.942299999948773	Motion	{"0": false}	ResourceManagementCurator
+1.2318999999934022	18.39999999998554	RepairedEnergySupply	{}	ResourceManagementCurator
+1.6588000000297143	3.4663999999793305	Motion	{"0": false}	ResourceManagementCurator
+1.264200000036908	25.257699999997385	BrokenEnergySupply	{}	ResourceManagementCurator
+0.40729999994937316	1.0272999999756394	Motion	{"0": true}	ResourceManagementCurator
+0.8955000000128166	11.891100000013921	Fire	{"0": true, "fromCurator": true}	ResourceManagementCurator
+1.4001999999777581	4.613500000004933	Motion	{"0": true}	ResourceManagementCurator
+0.557899999989786	1.455399999997553	Motion	{"0": false}	ResourceManagementCurator
+0.8669999999710853	2.161199999989094	Motion	{"0": true}	ResourceManagementCurator
+0.7781999999565414	6.267299999990428	Motion	{"0": false}	ResourceManagementCurator
+2.9002999999647727	22.368500000027325	Motion	{"0": true}	ResourceManagementCurator
+0.6152000000270164	1.384599999994407	Motion	{"0": true}	ResourceManagementCurator
+1.0047000000099615	2.048699999988912	Motion	{"0": true}	ResourceManagementCurator
+1.3751999999840336	3.4908999999743173	Motion	{"0": false}	ResourceManagementCurator
+1.4001999999777581	3.206000000034237	Motion	{"0": false}	ResourceManagementCurator
+0.5219000000238339	24.90299999999479	BrokenEnergySupply	{}	ResourceManagementCurator
+3.540799999996125	12.279000000035012	Fire	{"0": false, "fromCurator": true}	ResourceManagementCurator
+1.577699999984361	3.6582000000180415	Motion	{"0": false}	ResourceManagementCurator
+1.3119000000187953	3.120099999989634	Motion	{"0": true}	ResourceManagementCurator
+0.908100000003742	3.3250999999836495	Motion	{"0": false}	ResourceManagementCurator
+0.5001000000106615	9.644900000012058	RepairedEnergySupply	{}	ResourceManagementCurator
+0.49489999997831546	6.187699999998131	RepairedEnergySupply	{}	ResourceManagementCurator
+1.4354999999568463	9.894200000019282	Motion	{"0": false}	ResourceManagementCurator
+0.8241000000452914	2.3146999999426043	Motion	{"0": false}	ResourceManagementCurator
+1.628900000014255	3.9586999999983163	Motion	{"0": false}	ResourceManagementCurator
+1.9690000000309738	2.6012999999238673	Motion	{"0": false}	ResourceManagementCurator
+1.6299999999773718	3.612599999996746	Motion	{"0": false}	ResourceManagementCurator
+1.6176999999970576	17.236900000057176	Motion	{"0": true}	ResourceManagementCurator
+1.497500000027685	20.28980000000047	Motion	{"0": false}	ResourceManagementCurator
+1.7219999999724678	36.14110000000892	Motion	{"0": true}	ResourceManagementCurator
+0.5737999999837484	8.567300000095202	Motion	{"0": false}	ResourceManagementCurator
+3.584300000056828	34.13130000001274	Fire	{"0": true, "fromCurator": true}	ResourceManagementCurator
+2.4704999999585198	3.8796999999703985	Motion	{"0": true}	ResourceManagementCurator
+1.389700000004268	3.3610000000408036	Motion	{"0": false}	ResourceManagementCurator
+1.0608000000047468	3.0466000000615168	Motion	{"0": true}	ResourceManagementCurator
+0.9036000000151034	1.4374999999517968	Motion	{"0": true}	ResourceManagementCurator
+0.8751000000302156	1.2987999999722888	Motion	{"0": false}	ResourceManagementCurator
+3.059799999959978	1.9029000000045926	Motion	{"0": false}	ResourceManagementCurator
+1.3411999999561885	2.5613000000248576	Motion	{"0": false}	ResourceManagementCurator
+2.994699999931072	1.9395000000486107	Motion	{"0": true}	ResourceManagementCurator
+0.5482000000256448	1.5649999999141073	Motion	{"0": false}	ResourceManagementCurator
+1.5951000000313797	1.7993000000160464	Motion	{"0": true}	ResourceManagementCurator
+0.7993000000396933	22.44200000006913	BrokenEnergySupply	{}	ResourceManagementCurator
+1.32270000005974	7.553300000040508	Fire	{"0": false, "fromCurator": true}	ResourceManagementCurator
+0.9359000000586093	1.7698000000336833	Motion	{"0": true}	ResourceManagementCurator
+0.6190999999944324	0.8477000000084445	Motion	{"0": true}	ResourceManagementCurator
+1.7862000000832268	32.16759999997976	RepairedEnergySupply	{}	ResourceManagementCurator
+2.223100000037448	15.979399999991983	Motion	{"0": true}	ResourceManagementCurator
+1.2194999999337597	13.402100000007522	Motion	{"0": false}	ResourceManagementCurator
+1.858900000001995	13.211200000000645	Motion	{"0": true}	ResourceManagementCurator
+3.000199999974029	6.708800000069459	Motion	{"0": true}	ResourceManagementCurator
+1.6431999999895197	10.810600000013437	Motion	{"0": false}	ResourceManagementCurator
+1.3847000000168919	8.73710000007577	Motion	{"0": false}	ResourceManagementCurator
+2.4397999999337117	19.59990000000289	Motion	{"0": true}	ResourceManagementCurator
+2.040499999907297	2.1600000000034925	Motion	{"0": true}	ResourceManagementCurator
+0.5988999999999578	0.8467000000109692	Motion	{"0": true}	ResourceManagementCurator
+1.3411999999561885	1.7874999999776264	Motion	{"0": true}	ResourceManagementCurator
+2.644700000018929	54.92749999996249	Fire	{"0": true, "fromCurator": true}	ResourceManagementCurator
+0.9432999999035019	1.5091999999867767	Motion	{"0": false}	ResourceManagementCurator
+2.3191999999880863	3.3316999999897234	Motion	{"0": true}	ResourceManagementCurator
+1.622999999995045	2.2883999999976368	Motion	{"0": false}	ResourceManagementCurator
+0.8821999999781838	4.229600000030587	Motion	{"0": true}	ResourceManagementCurator
+1.9506999999521213	2.2383000000445463	Motion	{"0": false}	ResourceManagementCurator
+1.7858999999589287	2.0592999999280437	Motion	{"0": false}	ResourceManagementCurator
+1.70269999989614	1.6229000000294036	Motion	{"0": false}	ResourceManagementCurator
+0.8012999999209569	1.7053000001396867	Motion	{"0": false}	ResourceManagementCurator
+2.7331999999660184	2.1664000000782835	Motion	{"0": true}	ResourceManagementCurator
+1.3500999998541374	2.3536999999578256	Motion	{"0": true}	ResourceManagementCurator
+1.4671999999791296	2.2742000001017004	Motion	{"0": true}	ResourceManagementCurator
+0.8342000000993721	1.739100000122562	Motion	{"0": false}	ResourceManagementCurator
+1.3790000000426517	2.864799999997558	Motion	{"0": true}	ResourceManagementCurator
+0.5249999999250576	1.4636999999311229	Motion	{"0": true}	ResourceManagementCurator
+1.480199999832621	17.60439999998198	Fire	{"0": false, "fromCurator": true}	ResourceManagementCurator
+1.8379999999069696	18.11720000000605	Motion	{"0": true}	ResourceManagementCurator
+2.0105000000967266	12.147199999844815	Motion	{"0": false}	ResourceManagementCurator
+1.04309999983343	13.977899999872534	Motion	{"0": true}	ResourceManagementCurator
+1.726100000041697	2.129899999999907	Motion	{"0": true}	ResourceManagementCurator
+0.8951000002070941	1.733200000217039	Motion	{"0": true}	ResourceManagementCurator
+1.7189000000144006	6.420400000024529	Motion	{"0": true}	ResourceManagementCurator
+0.939600000037899	40.751300000010815	BrokenEnergySupply	{}	ResourceManagementCurator
+1.5378000000509928	17.308100000036575	Fire	{"0": true, "fromCurator": true}	ResourceManagementCurator
+0.883899999962523	1.4330000001336884	Motion	{"0": false}	ResourceManagementCurator
+1.3222999998561136	2.291100000093138	Motion	{"0": false}	ResourceManagementCurator
+1.4803999999912776	2.171000000089407	Motion	{"0": true}	ResourceManagementCurator
+1.8195999998624757	6.115700000009383	Motion	{"0": true}	ResourceManagementCurator
+1.3219999998455023	2.079200000025594	Motion	{"0": true}	ResourceManagementCurator
+1.6620999999759078	2.031799999940631	Motion	{"0": true}	ResourceManagementCurator
+0.871099999812941	6.536999999980253	Motion	{"0": false}	ResourceManagementCurator
+1.2426000000687054	2.0744000000831875	Motion	{"0": false}	ResourceManagementCurator
+1.3369999999213178	1.3566999998602114	Motion	{"0": false}	ResourceManagementCurator
+0.7796999998390675	4.75149999988389	Motion	{"0": false}	ResourceManagementCurator
+1.2492000000747794	1.9330000000081782	Motion	{"0": false}	ResourceManagementCurator
+0.8167999999386666	3.279599999814309	Motion	{"0": false}	ResourceManagementCurator
+1.5638000002127228	2.1212999999988824	Motion	{"0": true}	ResourceManagementCurator
+1.2262999998711166	2.110800000082236	Motion	{"0": true}	ResourceManagementCurator
+3.4886000000824424	52.20329999997375	BrokenEnergySupply	{}	ResourceManagementCurator
+0.7459999999355205	9.526600000071994	Fire	{"0": false, "fromCurator": true}	ResourceManagementCurator
+0.8666000001085195	1.3533999999708612	Motion	{"0": true}	ResourceManagementCurator
+0.41190000001734006	1.2776999999459804	Motion	{"0": true}	ResourceManagementCurator
+1.7683000000943139	2.3068000000421307	Motion	{"0": true}	ResourceManagementCurator
+1.3422999998056184	1.9626000000698696	Motion	{"0": false}	ResourceManagementCurator
+0.4586999998537067	9.865300000001298	RepairedEnergySupply	{}	ResourceManagementCurator
+0.46999999995023245	5.063800000016272	RepairedEnergySupply	{}	ResourceManagementCurator
+2.047599999968952	1.8962999999985186	Motion	{"0": false}	ResourceManagementCurator
+2.2526999998717656	15.23229999997966	Motion	{"0": true}	ResourceManagementCurator
+5.665299999918716	1.8850999999813212	Motion	{"0": true}	ResourceManagementCurator
+4.315899999937756	41.251299999885305	Motion	{"0": false}	ResourceManagementCurator
+2.4042999998528103	12.973200000033103	Motion	{"0": true}	ResourceManagementCurator
+1.6153999999914959	2.35659999998461	Motion	{"0": true}	ResourceManagementCurator
+2.2136000000045897	2.349100000174076	Motion	{"0": true}	ResourceManagementCurator
+2.1705999999994674	13.495000000148138	Motion	{"0": false}	ResourceManagementCurator
+3.168400000049587	36.26229999986208	Fire	{"0": true, "fromCurator": true}	ResourceManagementCurator
+2.504499999986365	2.0680000000083965	Motion	{"0": true}	ResourceManagementCurator
+0.7107000001269625	1.1068000001159817	Motion	{"0": false}	ResourceManagementCurator
+1.3642999999774474	2.0816999999624386	Motion	{"0": false}	ResourceManagementCurator
+0.46790000010332733	0.8392999998250161	Motion	{"0": false}	ResourceManagementCurator
+1.7590999998446932	2.6345999999648484	Motion	{"0": true}	ResourceManagementCurator
+1.6762000000198896	2.2933000000193715	Motion	{"0": false}	ResourceManagementCurator
+1.2968000000910251	2.2042000000510598	Motion	{"0": false}	ResourceManagementCurator
+0.820399999838628	2.1173000000089814	Motion	{"0": false}	ResourceManagementCurator
+0.8755999999721098	52.31370000001334	BrokenEnergySupply	{}	ResourceManagementCurator
+0.9790999999950145	8.54709999998704	Fire	{"0": false, "fromCurator": true}	ResourceManagementCurator
+0.7078000001001783	2.215799999930823	Motion	{"0": true}	ResourceManagementCurator
+1.1464000001524255	1.332299999830866	Motion	{"0": true}	ResourceManagementCurator
+4.593299999896772	4.093100000090999	Motion	{"0": false}	ResourceManagementCurator
+0.89309999998477	0.9307000000262633	Motion	{"0": true}	ResourceManagementCurator
+0.45539999996435654	9.198900000001231	RepairedEnergySupply	{}	ResourceManagementCurator
+0.7911000000149215	2.195100000108141	Motion	{"0": false}	ResourceManagementCurator
+1.5972999999576132	2.606900000046153	Motion	{"0": false}	ResourceManagementCurator
+1.8994000001839595	35.20069999990483	Fire	{"0": true, "fromCurator": true}	ResourceManagementCurator
+0.889099999994869	0.886499999978696	Motion	{"0": false}	ResourceManagementCurator
+1.7763999999260704	2.2068999999191874	Motion	{"0": true}	ResourceManagementCurator
+0.9683000000677566	1.4165000000048167	Motion	{"0": false}	ResourceManagementCurator
+1.7686000001049251	2.1983999999974912	Motion	{"0": true}	ResourceManagementCurator
+0.9219000000939559	0.5899000000226806	Motion	{"0": true}	ResourceManagementCurator
+2.5574999999662396	2.192500000091968	Motion	{"0": true}	ResourceManagementCurator
+1.2242000000242115	1.8296000000646018	Motion	{"0": false}	ResourceManagementCurator
+1.3705999999729102	1.9144000000324013	Motion	{"0": false}	ResourceManagementCurator
+1.3052999997853476	2.507799999875715	Motion	{"0": false}	ResourceManagementCurator
+1.3725999999678606	2.6788000000124157	Motion	{"0": false}	ResourceManagementCurator
+1.7814999998790881	2.144099999895843	Motion	{"0": false}	ResourceManagementCurator
+0.8950000001277658	1.5052999999625172	Motion	{"0": false}	ResourceManagementCurator
+3.047499999865977	2.4663999997756036	Motion	{"0": true}	ResourceManagementCurator
+0.5363000000215834	0.9046999998645333	Motion	{"0": true}	ResourceManagementCurator
+2.272000000175467	22.006799999871873	Fire	{"0": false, "fromCurator": true}	ResourceManagementCurator
+1.0806999998749234	5.551899999773013	Motion	{"0": true}	ResourceManagementCurator
+0.6954999998924905	1.8635000001268054	Motion	{"0": true}	ResourceManagementCurator
+1.526800000192452	15.175300000009884	Motion	{"0": false}	ResourceManagementCurator
+0.8234000001721142	4.317200000059529	Motion	{"0": false}	ResourceManagementCurator
+1.5362999997705629	2.0893999999316293	Motion	{"0": false}	ResourceManagementCurator
+1.6282999999930325	29.835999999704654	Motion	{"0": true}	ResourceManagementCurator
+1.7169000002468238	13.715400000364752	Motion	{"0": false}	ResourceManagementCurator
+0.8769999999458378	1.491600000008475	Motion	{"0": false}	ResourceManagementCurator
+5.097400000067864	60.70399999998699	Fire	{"0": true, "fromCurator": true}	ResourceManagementCurator
+2.81989999984944	11.16840000031516	Motion	{"0": false}	ResourceManagementCurator
+1.4691000001221255	1.9889000000148371	Motion	{"0": false}	ResourceManagementCurator
+1.8304000000171072	2.0756999997502135	Motion	{"0": false}	ResourceManagementCurator
+2.3599999999532884	2.6309999998375133	Motion	{"0": false}	ResourceManagementCurator
+1.4138999999886437	8.252599999650556	Motion	{"0": false}	ResourceManagementCurator
+1.102799999898707	2.1997999997438455	Motion	{"0": false}	ResourceManagementCurator
+0.6335000002763991	23.436600000422914	BrokenEnergySupply	{}	ResourceManagementCurator
+0.9292999998251616	8.330000000114524	Fire	{"0": false, "fromCurator": true}	ResourceManagementCurator
+1.3776000000689237	2.117900000030204	Motion	{"0": true}	ResourceManagementCurator
+1.9875000002684828	2.194600000166247	Motion	{"0": true}	ResourceManagementCurator
+1.9784000000981905	1.8719000004239206	Motion	{"0": true}	ResourceManagementCurator
+0.5200999999033229	0.9413999996468192	Motion	{"0": false}	ResourceManagementCurator
+1.5297999998438172	21.485199999915494	RepairedEnergySupply	{}	ResourceManagementCurator
+2.0981000002393557	3.8529000003109104	Motion	{"0": false}	ResourceManagementCurator
+2.5946999999177933	12.86000000027343	Motion	{"0": true}	ResourceManagementCurator
+1.3201000001572538	59.43759999991016	BrokenEnergySupply	{}	ResourceManagementCurator
+0.8554999999432766	6.382699999903707	Fire	{"0": true, "fromCurator": true}	ResourceManagementCurator
+1.3926999999966938	2.2400999996534665	Motion	{"0": false}	ResourceManagementCurator
+1.970199999959732	2.7347000000190747	Motion	{"0": true}	ResourceManagementCurator
+1.4864999998280837	2.393199999914941	Motion	{"0": true}	ResourceManagementCurator
+0.8041000000957865	1.0639000001901877	Motion	{"0": false}	ResourceManagementCurator
+1.2829000002057	1.9721999997273088	Motion	{"0": false}	ResourceManagementCurator
+0.8956000001489883	0.9731000000101631	Motion	{"0": true}	ResourceManagementCurator
+0.8534999997209525	0.9125999999923806	Motion	{"0": false}	ResourceManagementCurator
+1.9114000001536624	2.509799999643292	Motion	{"0": true}	ResourceManagementCurator
+2.529699999740842	4.826300000331685	Motion	{"0": false}	ResourceManagementCurator
+0.515599999744154	1.15589999995791	Motion	{"0": true}	ResourceManagementCurator
+0.9585999996488681	3.179700000146113	Motion	{"0": false}	ResourceManagementCurator
+0.8527999998477753	1.3852000001861597	Motion	{"0": false}	ResourceManagementCurator
+1.7113000003519119	2.9603000002680346	Motion	{"0": true}	ResourceManagementCurator
+1.3586000000032072	2.344999999877473	Motion	{"0": true}	ResourceManagementCurator
+1.414899999872432	12.992600000416132	Fire	{"0": false, "fromCurator": true}	ResourceManagementCurator
+0.875000000178261	3.603499999826454	Motion	{"0": true}	ResourceManagementCurator
+0.6358000000545871	5.263999999897351	Motion	{"0": true}	ResourceManagementCurator
+0.7162000001699198	20.356099999844446	RepairedEnergySupply	{}	ResourceManagementCurator
+1.5703999997640494	7.202200000392622	Motion	{"0": true}	ResourceManagementCurator
+0.6556000003001827	19.145100000059756	Motion	{"0": false}	ResourceManagementCurator
+2.1083999999973457	19.486199999846576	Motion	{"0": true}	ResourceManagementCurator
+0.5984999997963314	6.187700000282348	Motion	{"0": false}	ResourceManagementCurator
+2.0042999999532185	31.41060000007201	Motion	{"0": true}	ResourceManagementCurator
+1.336299999820767	6.865100000140956	Motion	{"0": true}	ResourceManagementCurator
+1.2898999998469662	3.0865000003359455	Motion	{"0": true}	ResourceManagementCurator
+0.5270999999993364	1.1452000003373541	Motion	{"0": true}	ResourceManagementCurator
+1.6394999997828563	14.283099999829574	Motion	{"0": false}	ResourceManagementCurator
+0.9218000000146276	1.4028000000507745	Motion	{"0": false}	ResourceManagementCurator
+0.9356999998999527	1.82489999997415	Motion	{"0": false}	ResourceManagementCurator
+0.8149000000230444	22.048499999982596	Motion	{"0": true}	ResourceManagementCurator
+1.9575999999688065	57.643000000098255	BrokenEnergySupply	{}	ResourceManagementCurator
+1.4289000000644592	9.6638999998504	Fire	{"0": true, "fromCurator": true}	ResourceManagementCurator
+0.7279000001290115	0.787799999670824	Motion	{"0": false}	ResourceManagementCurator
+1.4900000001034641	26.23940000012226	Motion	{"0": false}	ResourceManagementCurator
+1.3740999997935432	2.114700000220182	Motion	{"0": true}	ResourceManagementCurator
+0.8790000001681619	0.9853000001385226	Motion	{"0": false}	ResourceManagementCurator
+1.0231999999632535	1.1554000002433895	Motion	{"0": false}	ResourceManagementCurator
+1.4073000002099434	2.0015000000057626	Motion	{"0": false}	ResourceManagementCurator
+0.8751000000302156	45.51519999995435	BrokenEnergySupply	{}	ResourceManagementCurator
+1.2986000001546927	15.694300000177464	Fire	{"0": false, "fromCurator": true}	ResourceManagementCurator
+1.5546999998150568	2.4318000000675966	Motion	{"0": true}	ResourceManagementCurator
+1.2651000001824286	2.097600000070088	Motion	{"0": true}	ResourceManagementCurator
+1.1247000002185814	20.519700000022567	RepairedEnergySupply	{}	ResourceManagementCurator
+0.8691999996699451	10.024799999882816	RepairedEnergySupply	{}	ResourceManagementCurator
+2.548099999785336	17.961400000331196	Motion	{"0": true}	ResourceManagementCurator
+0.8936000003814115	0.7653000002392218	Motion	{"0": true}	ResourceManagementCurator
+1.3622000001305423	12.07990000011705	Motion	{"0": true}	ResourceManagementCurator
+1.2255999999979394	8.818699999665114	Motion	{"0": false}	ResourceManagementCurator
+0.8940999996411847	2.2379000001819804	Motion	{"0": false}	ResourceManagementCurator
+0.821900000119058	9.23819999979969	Motion	{"0": true}	ResourceManagementCurator
+0.892900000053487	1.293700000132958	Motion	{"0": true}	ResourceManagementCurator
+1.5295999996851606	1.3272999999571766	Motion	{"0": true}	ResourceManagementCurator
+1.277599999866652	9.240399999725923	Motion	{"0": false}	ResourceManagementCurator
+1.2212999999974272	9.839900000315538	Motion	{"0": true}	ResourceManagementCurator
+5.04049999972267	16.650099999878876	Motion	{"0": false}	ResourceManagementCurator
+0.4953000002387853	1.459800000247924	Motion	{"0": false}	ResourceManagementCurator
+1.082499999938591	21.63350000000719	Fire	{"0": true, "fromCurator": true}	ResourceManagementCurator
+0.4727999998976884	1.3691000003746012	Motion	{"0": true}	ResourceManagementCurator
+1.3741999996454979	2.2527000000991393	Motion	{"0": true}	ResourceManagementCurator
+0.8759000002100947	1.3011000000915374	Motion	{"0": true}	ResourceManagementCurator
+0.47210000002451125	1.180999999633059	Motion	{"0": true}	ResourceManagementCurator
+0.9095000000343134	0.9469000001445238	Motion	{"0": true}	ResourceManagementCurator
+1.2465999998312327	17.113699999754317	Motion	{"0": true}	ResourceManagementCurator
+0.9259999997084378	1.1730000001080043	Motion	{"0": true}	ResourceManagementCurator
+0.9295999998357729	1.308100000187551	Motion	{"0": false}	ResourceManagementCurator
+1.4536999997289968	24.82529999997496	Fire	{"0": false, "fromCurator": true}	ResourceManagementCurator
+1.9465000000309374	2.552099999775237	Motion	{"0": false}	ResourceManagementCurator
+0.8987000001070555	1.1889000002156536	Motion	{"0": false}	ResourceManagementCurator
+1.1362000000190164	11.008500000116328	Motion	{"0": true}	ResourceManagementCurator
+0.5661000000145577	5.896199999824603	Motion	{"0": false}	ResourceManagementCurator
+2.263200000015786	1.5873000002102344	Motion	{"0": false}	ResourceManagementCurator
+0.5384999999478168	6.492500000149448	Motion	{"0": true}	ResourceManagementCurator
+0.5287000003590947	0.8858999999574735	Motion	{"0": true}	ResourceManagementCurator
+1.1340999999447376	17.683600000054867	Motion	{"0": false}	ResourceManagementCurator
+0.5357999998523155	7.091999999829568	Motion	{"0": true}	ResourceManagementCurator
+1.1927999998988525	9.422999999969761	Motion	{"0": false}	ResourceManagementCurator
+1.198499999645719	13.202699999965262	Motion	{"0": true}	ResourceManagementCurator
+0.793100000009872	1.019799999994575	Motion	{"0": true}	ResourceManagementCurator
+2.2263000000748434	49.99790000010762	Fire	{"0": true, "fromCurator": true}	ResourceManagementCurator
+0.8934000002227549	1.3519999997697596	Motion	{"0": true}	ResourceManagementCurator
+0.5555000002459565	0.8263000004262722	Motion	{"0": false}	ResourceManagementCurator
+2.367399999911868	2.2268000002441113	Motion	{"0": false}	ResourceManagementCurator
+0.8972000000539992	0.9766000002855435	Motion	{"0": false}	ResourceManagementCurator
+0.8886999999049294	0.9020000002237794	Motion	{"0": false}	ResourceManagementCurator
+0.9546999999656691	3.8810999999441265	Motion	{"0": true}	ResourceManagementCurator
+1.9818999999188236	28.424900000118214	Fire	{"0": false, "fromCurator": true}	ResourceManagementCurator
+0.8337999997820589	1.6920000002755842	Motion	{"0": false}	ResourceManagementCurator
+1.2338999999883526	3.6524000001918466	Motion	{"0": false}	ResourceManagementCurator
+1.0669000002963003	15.137200000026496	Motion	{"0": true}	ResourceManagementCurator
+2.803099999709957	13.815900000281545	Motion	{"0": false}	ResourceManagementCurator
+1.2637999998332816	10.663000000022294	Motion	{"0": true}	ResourceManagementCurator
+1.267300000108662	1.8540000000939472	Motion	{"0": true}	ResourceManagementCurator
+2.42370000023584	33.95189999991999	Fire	{"0": true, "fromCurator": true}	ResourceManagementCurator
+0.8938999999372754	1.3137000000824628	Motion	{"0": false}	ResourceManagementCurator
+0.8923000000322645	0.9608999998818035	Motion	{"0": true}	ResourceManagementCurator
+2.1021000002292567	2.569599999787897	Motion	{"0": false}	ResourceManagementCurator
+0.8523000001332548	1.3970999998491607	Motion	{"0": false}	ResourceManagementCurator
+1.6332000000147673	6.571200000053068	Motion	{"0": true}	ResourceManagementCurator
+0.90970000019297	2.2917999999663152	Motion	{"0": true}	ResourceManagementCurator
+1.4430000001084409	2.1414999996522965	Motion	{"0": true}	ResourceManagementCurator
+1.2535000000752916	2.0874000001640525	Motion	{"0": true}	ResourceManagementCurator
+0.8447000000160187	1.2282999996386934	Motion	{"0": false}	ResourceManagementCurator
+1.0028000001511828	2.0296000002417713	Motion	{"0": false}	ResourceManagementCurator
+1.228999999966618	2.1449000000757223	Motion	{"0": true}	ResourceManagementCurator
+1.7499999999017746	2.0555000000967993	Motion	{"0": true}	ResourceManagementCurator
+1.5311999995901715	25.00079999981608	Fire	{"0": false, "fromCurator": true}	ResourceManagementCurator
+0.9066000002349028	0.9421999998266983	Motion	{"0": false}	ResourceManagementCurator
+2.134099999693717	14.593500000046333	Motion	{"0": true}	ResourceManagementCurator
+1.3888000003134948	2.382900000156951	Motion	{"0": true}	ResourceManagementCurator
+1.7597000000932894	16.629599999760103	Motion	{"0": false}	ResourceManagementCurator
+1.8608999998832587	15.9774999997353	Motion	{"0": true}	ResourceManagementCurator
+0.8976999997685198	1.0151999999834516	Motion	{"0": true}	ResourceManagementCurator
+1.5748999999232183	2.117099999850325	Motion	{"0": true}	ResourceManagementCurator
+0.4435999999259366	0.955099999828235	Motion	{"0": true}	ResourceManagementCurator
+1.1191999997208768	56.33280000029117	BrokenEnergySupply	{}	ResourceManagementCurator
+1.14320000011503	7.768800000121701	Fire	{"0": true, "fromCurator": true}	ResourceManagementCurator
+1.6516000000592612	2.1148000000721368	Motion	{"0": false}	ResourceManagementCurator
+1.444900000024063	2.900099999806116	Motion	{"0": true}	ResourceManagementCurator
+1.6831000002639485	1.9566999999369727	Motion	{"0": false}	ResourceManagementCurator
+1.5802999996594735	2.138599999852886	Motion	{"0": true}	ResourceManagementCurator
+0.8738999999877706	0.9518000001662585	Motion	{"0": true}	ResourceManagementCurator
+1.5310999997382169	2.129399999830639	Motion	{"0": true}	ResourceManagementCurator
+0.41300000020783045	1.2805999999727646	Motion	{"0": true}	ResourceManagementCurator
+1.4009000001351524	1.4387999999598833	Motion	{"0": true}	ResourceManagementCurator
+2.1541000000979693	2.697900000384834	Motion	{"0": false}	ResourceManagementCurator
+1.241699999809498	2.235099999779777	Motion	{"0": true}	ResourceManagementCurator
+0.5400000000008731	0.9092000000237022	Motion	{"0": false}	ResourceManagementCurator
+1.3291999998727988	2.563300000019808	Motion	{"0": false}	ResourceManagementCurator
+4.148399999849062	11.606100000335573	Fire	{"0": false, "fromCurator": true}	ResourceManagementCurator
+1.657700000123441	1.8381999998382526	Motion	{"0": false}	ResourceManagementCurator
+1.0738999999375665	1.7244999999093125	Motion	{"0": true}	ResourceManagementCurator
+0.7869000000937376	21.22749999989537	RepairedEnergySupply	{}	ResourceManagementCurator
+2.1754999997938285	3.02319999991596	Motion	{"0": false}	ResourceManagementCurator
+1.3588000001618639	2.252799999951094	Motion	{"0": false}	ResourceManagementCurator
+1.9572999999581953	2.1298000001479522	Motion	{"0": false}	ResourceManagementCurator
+1.6648999999233638	20.24470000014844	Motion	{"0": true}	ResourceManagementCurator
+1.5694000003350084	17.87239999976009	Motion	{"0": false}	ResourceManagementCurator
+1.466900000195892	13.793999999506923	Motion	{"0": true}	ResourceManagementCurator
+0.8767999997871812	1.3940000008005882	Motion	{"0": true}	ResourceManagementCurator
+1.5618999996149796	18.360700000812358	Motion	{"0": false}	ResourceManagementCurator
+1.7782000004444853	14.452800000071875	Motion	{"0": true}	ResourceManagementCurator
+1.5002999998614541	3.0559999995602993	Motion	{"0": true}	ResourceManagementCurator
+2.2088000005169306	39.74339999967924	Fire	{"0": true, "fromCurator": true}	ResourceManagementCurator
+1.2061999996149098	1.8347999994148267	Motion	{"0": false}	ResourceManagementCurator
+1.3066000001344946	1.9522999991750112	Motion	{"0": false}	ResourceManagementCurator
+1.700699999673816	2.1183999997447245	Motion	{"0": true}	ResourceManagementCurator
+0.41509999937261455	1.0393000002295594	Motion	{"0": false}	ResourceManagementCurator
+1.1118999991595047	1.9647999997687293	Motion	{"0": true}	ResourceManagementCurator
+1.349300000583753	2.079700000649609	Motion	{"0": false}	ResourceManagementCurator
+0.8888000002116314	0.8720999994693557	Motion	{"0": false}	ResourceManagementCurator
+1.6301000005114474	1.9720999998753541	Motion	{"0": true}	ResourceManagementCurator
+1.6913999997996143	1.872400000138441	Motion	{"0": false}	ResourceManagementCurator
+1.1196000004929374	1.9533000004230416	Motion	{"0": true}	ResourceManagementCurator
+1.9272999998065643	2.4604999998700805	Motion	{"0": true}	ResourceManagementCurator
+1.4312000002973946	1.9118000000162283	Motion	{"0": false}	ResourceManagementCurator
+2.7193999994779006	30.962900000304217	Fire	{"0": false, "fromCurator": true}	ResourceManagementCurator
+1.0323000005882932	9.088199999496283	Motion	{"0": true}	ResourceManagementCurator
+1.4166999999360996	9.484099999099271	Motion	{"0": true}	ResourceManagementCurator
+1.5321999999287073	2.0876999997199164	Motion	{"0": true}	ResourceManagementCurator
+1.6580999999860069	12.98309999947378	Motion	{"0": false}	ResourceManagementCurator
+1.637299999856623	11.39190000048984	Motion	{"0": true}	ResourceManagementCurator
+1.6157000000021071	12.574899999890476	Motion	{"0": false}	ResourceManagementCurator
+1.3286000003063236	2.0796999997401144	Motion	{"0": false}	ResourceManagementCurator
+1.4072999993004487	2.162599999792292	Motion	{"0": false}	ResourceManagementCurator
+1.5585000001010485	12.99150000068039	Motion	{"0": true}	ResourceManagementCurator
+1.8727000006037997	11.107900000752124	Motion	{"0": false}	ResourceManagementCurator
+1.516299999821058	1.958099999683327	Motion	{"0": false}	ResourceManagementCurator
+1.314000000093074	1.3711999999941327	Motion	{"0": false}	ResourceManagementCurator
+1.5892000001258566	57.255499999882886	BrokenEnergySupply	{}	ResourceManagementCurator
+1.4006999999764957	10.208700000475801	Fire	{"0": true, "fromCurator": true}	ResourceManagementCurator
+1.602199999979348	2.031699999861303	Motion	{"0": false}	ResourceManagementCurator
+1.803999999538064	2.017599999817321	Motion	{"0": false}	ResourceManagementCurator
+0.886499999978696	1.3515999999071937	Motion	{"0": true}	ResourceManagementCurator
+1.6946000005191308	2.4883999994926853	Motion	{"0": false}	ResourceManagementCurator
+1.6648000000714092	2.3487999997087172	Motion	{"0": true}	ResourceManagementCurator
+1.336000000264903	2.0064000000274973	Motion	{"0": true}	ResourceManagementCurator
+0.9820000004765461	3.7036000003354275	Motion	{"0": false}	ResourceManagementCurator
+1.3693000000785105	1.7993999999816879	Motion	{"0": true}	ResourceManagementCurator
+2.180700000280922	43.091800000183866	BrokenEnergySupply	{}	ResourceManagementCurator
+2.144600000065111	16.11349999984668	Fire	{"0": false, "fromCurator": true}	ResourceManagementCurator
+1.4566999998351093	1.8823000000338652	Motion	{"0": true}	ResourceManagementCurator
+1.635800000258314	1.9602000002123532	Motion	{"0": false}	ResourceManagementCurator
+1.1007000002791756	26.72290000009525	RepairedEnergySupply	{}	ResourceManagementCurator
+1.1438000001362525	13.082600000416278	RepairedEnergySupply	{}	ResourceManagementCurator
+1.2415999999575433	2.2918999993635225	Motion	{"0": false}	ResourceManagementCurator
+1.3575000002674642	1.468600000407605	Motion	{"0": false}	ResourceManagementCurator
+1.4911999996911618	2.0748999995703343	Motion	{"0": false}	ResourceManagementCurator
+0.9004999992612284	1.490100000410166	Motion	{"0": false}	ResourceManagementCurator
+1.3183000000935863	1.6250999997282634	Motion	{"0": false}	ResourceManagementCurator
+1.7891999996209051	12.063899999702699	Motion	{"0": true}	ResourceManagementCurator
+1.4581999994334183	1.9941000000471831	Motion	{"0": true}	ResourceManagementCurator
+1.3653000005433569	2.550800000790332	Motion	{"0": true}	ResourceManagementCurator
+1.2669999996433035	63.12359999992623	BrokenEnergySupply	{}	ResourceManagementCurator
+2.512899999601359	14.055399999961082	Fire	{"0": true, "fromCurator": true}	ResourceManagementCurator
+1.4277999998739688	2.093799999784096	Motion	{"0": false}	ResourceManagementCurator
+1.25690000004397	2.0032000002174755	Motion	{"0": true}	ResourceManagementCurator
+1.220800000737654	2.338899999813293	Motion	{"0": true}	ResourceManagementCurator
+1.9247999998697196	2.2551000001840293	Motion	{"0": false}	ResourceManagementCurator
+0.8974999991551158	0.8327999994435231	Motion	{"0": true}	ResourceManagementCurator
+1.4560999998138868	2.3341000005530077	Motion	{"0": false}	ResourceManagementCurator
+1.0792000002766144	24.81530000022758	BrokenEnergySupply	{}	ResourceManagementCurator
+1.6802999998617452	8.179999999811116	Fire	{"0": false, "fromCurator": true}	ResourceManagementCurator
+1.5714000001025852	2.3228000000017346	Motion	{"0": false}	ResourceManagementCurator
+2.083200000015495	2.7120999993712758	Motion	{"0": false}	ResourceManagementCurator
+0.8063000004767673	14.347199999974691	RepairedEnergySupply	{}	ResourceManagementCurator
+1.3509999998859712	12.34299999941868	RepairedEnergySupply	{}	ResourceManagementCurator
+1.3420999994195881	1.5338000002884655	Motion	{"0": false}	ResourceManagementCurator
+2.1353000001909095	12.207700000544719	Motion	{"0": true}	ResourceManagementCurator
+1.373500000227068	1.7268999999942025	Motion	{"0": true}	ResourceManagementCurator
+1.5546999993603094	1.6165000006367336	Motion	{"0": true}	ResourceManagementCurator
+1.3591999995696824	1.6524000002391404	Motion	{"0": true}	ResourceManagementCurator
+1.5455000002475572	11.232000000745757	Motion	{"0": false}	ResourceManagementCurator
+1.843199999711942	12.296199999582313	Motion	{"0": true}	ResourceManagementCurator
+0.9084999992410303	1.19520000043849	Motion	{"0": true}	ResourceManagementCurator
+1.5610999998898478	1.6836999993756763	Motion	{"0": true}	ResourceManagementCurator
+1.2643000000025495	1.5647999998691375	Motion	{"0": true}	ResourceManagementCurator
+1.490100000410166	1.6476999999213149	Motion	{"0": true}	ResourceManagementCurator
+1.5347999997175066	1.626899999791931	Motion	{"0": true}	ResourceManagementCurator
+2.149999999346619	31.04110000003857	Fire	{"0": true, "fromCurator": true}	ResourceManagementCurator
+1.612099999874772	1.713499999823398	Motion	{"0": true}	ResourceManagementCurator
+1.321000000643835	2.062399999886111	Motion	{"0": false}	ResourceManagementCurator
+1.4381999999386608	1.765299999533454	Motion	{"0": true}	ResourceManagementCurator
+1.523099999758415	1.6666000001350767	Motion	{"0": false}	ResourceManagementCurator
+0.9027999994941638	0.9924000005412381	Motion	{"0": false}	ResourceManagementCurator
+0.9503000001132023	1.301499999499356	Motion	{"0": false}	ResourceManagementCurator
+1.1329999997542473	2.1525000001929584	Motion	{"0": true}	ResourceManagementCurator
+1.9406999999773689	1.6393000005336944	Motion	{"0": false}	ResourceManagementCurator
+1.2472999997044099	2.0126999997955863	Motion	{"0": false}	ResourceManagementCurator
+1.2432000003173016	1.5763999999762746	Motion	{"0": false}	ResourceManagementCurator
+0.7879000004322734	23.686200000156532	BrokenEnergySupply	{}	ResourceManagementCurator
+1.7261999992115307	6.353400000080001	Fire	{"0": false, "fromCurator": true}	ResourceManagementCurator
+1.4515999991999706	1.6020000002754387	Motion	{"0": true}	ResourceManagementCurator
+3.013900000041758	1.8614000000525266	Motion	{"0": true}	ResourceManagementCurator
+1.4645999999629566	1.667999999881431	Motion	{"0": true}	ResourceManagementCurator
+1.6854999994393438	1.6322000001309789	Motion	{"0": false}	ResourceManagementCurator
+1.2856000003012014	11.811500000476371	RepairedEnergySupply	{}	ResourceManagementCurator
+2.1501000001080683	10.697199999412987	Motion	{"0": true}	ResourceManagementCurator
+1.144199999544071	8.949199999733537	Motion	{"0": false}	ResourceManagementCurator
+1.427299999704701	1.704599999357015	Motion	{"0": false}	ResourceManagementCurator
+1.2292000001252745	8.857499999976426	Motion	{"0": true}	ResourceManagementCurator
+1.6056000004027737	22.651700000096753	Fire	{"0": true, "fromCurator": true}	ResourceManagementCurator
+1.704299999801151	1.6500000001542503	Motion	{"0": true}	ResourceManagementCurator
+1.172499999483989	1.7382999994879356	Motion	{"0": true}	ResourceManagementCurator
+1.6949999999269494	1.679599999988568	Motion	{"0": false}	ResourceManagementCurator
+0.9614000000510714	1.215299999785202	Motion	{"0": true}	ResourceManagementCurator
+1.5763999999762746	1.5959000002112589	Motion	{"0": false}	ResourceManagementCurator
+1.3471000002027722	1.6613999996479833	Motion	{"0": false}	ResourceManagementCurator
+1.246299999365874	35.42899999956717	BrokenEnergySupply	{}	ResourceManagementCurator
+2.485099999830709	12.165599999207188	Fire	{"0": false, "fromCurator": true}	ResourceManagementCurator
+0.903199999811477	0.628800000413321	Motion	{"0": false}	ResourceManagementCurator
+1.3882000002922723	1.7447999998694286	Motion	{"0": false}	ResourceManagementCurator
+1.5306999994209036	20.788599999832513	RepairedEnergySupply	{}	ResourceManagementCurator
+2.1762999995189602	12.092500000107975	Motion	{"0": true}	ResourceManagementCurator
+1.5353000007962692	1.72870000005787	Motion	{"0": true}	ResourceManagementCurator
+1.8270000000484288	1.60409999989497	Motion	{"0": true}	ResourceManagementCurator
+2.27919999997539	12.990500000341854	Motion	{"0": false}	ResourceManagementCurator
+2.2335000003295136	1.6472999996040016	Motion	{"0": false}	ResourceManagementCurator
+1.6592000001764973	1.6511999992872006	Motion	{"0": false}	ResourceManagementCurator
+1.6533000007257215	1.6916000004130183	Motion	{"0": false}	ResourceManagementCurator
+1.5197999991869438	1.729900000100315	Motion	{"0": false}	ResourceManagementCurator
+1.4239000001907698	1.6869000000951928	Motion	{"0": false}	ResourceManagementCurator
+1.385399999890069	1.6255999998975312	Motion	{"0": false}	ResourceManagementCurator
+2.350700000533834	24.492999999893073	Fire	{"0": true, "fromCurator": true}	ResourceManagementCurator
+1.602199999979348	1.622499999939464	Motion	{"0": true}	ResourceManagementCurator
+1.3039000004937407	1.7830000006142654	Motion	{"0": true}	ResourceManagementCurator
+1.3125000004947651	1.7139000001407112	Motion	{"0": true}	ResourceManagementCurator
+1.6327000003002468	1.9068999999944936	Motion	{"0": true}	ResourceManagementCurator
+1.783400000022084	1.730100000713719	Motion	{"0": true}	ResourceManagementCurator
+1.3352999994822312	1.7477000001235865	Motion	{"0": true}	ResourceManagementCurator
+1.5050000001792796	1.7591000005268143	Motion	{"0": true}	ResourceManagementCurator
+1.9553000001906184	1.7360000001644948	Motion	{"0": true}	ResourceManagementCurator
+0.4152000001340639	0.6654999997408595	Motion	{"0": false}	ResourceManagementCurator
+1.4700000001539593	1.7199000003529363	Motion	{"0": false}	ResourceManagementCurator
+0.8691000002727378	1.1930999999094638	Motion	{"0": true}	ResourceManagementCurator
+0.9075999996639439	1.2129000006098067	Motion	{"0": true}	ResourceManagementCurator
+0.4638999998860527	17.077100000278733	BrokenEnergySupply	{}	ResourceManagementCurator
+3.0034000001251115	4.068000000188476	Fire	{"0": false, "fromCurator": true}	ResourceManagementCurator
+2.0153999994363403	1.6646000003674999	Motion	{"0": true}	ResourceManagementCurator
+1.3754000001426903	1.7765000002327724	Motion	{"0": false}	ResourceManagementCurator
+1.279199999771663	20.87200000005396	RepairedEnergySupply	{}	ResourceManagementCurator
+2.1764000002804096	13.307199999871955	Motion	{"0": true}	ResourceManagementCurator
+0.5251000002317596	0.9056999997483217	Motion	{"0": true}	ResourceManagementCurator
+2.0073000005140784	11.179099999935715	Motion	{"0": false}	ResourceManagementCurator
+0.899599999684142	1.2028000001009787	Motion	{"0": false}	ResourceManagementCurator
+1.3734000003751134	1.7118000005211798	Motion	{"0": false}	ResourceManagementCurator
+1.45410000004631	1.5288000004147762	Motion	{"0": false}	ResourceManagementCurator
+1.597800000126881	1.6758000001573237	Motion	{"0": false}	ResourceManagementCurator
+1.8086000000039348	12.216200000693789	Motion	{"0": true}	ResourceManagementCurator
+2.3924000006445567	1.6177000006791786	Motion	{"0": true}	ResourceManagementCurator
+1.2710000000879518	1.146100000369188	Motion	{"0": true}	ResourceManagementCurator
+1.5500999998039333	26.864499999646796	Fire	{"0": true, "fromCurator": true}	ResourceManagementCurator
+1.5822999994270504	1.7300999998042244	Motion	{"0": true}	ResourceManagementCurator
+1.1657000004561269	1.1045999999623746	Motion	{"0": false}	ResourceManagementCurator
+1.9930999997086474	1.6922000004342408	Motion	{"0": false}	ResourceManagementCurator
+5.004399999961606	3.389200000128767	Motion	{"0": false}	ResourceManagementCurator
+2.7338999998391955	6.351600000016333	Motion	{"0": true}	ResourceManagementCurator
+1.2971000005563837	1.6061000005720416	Motion	{"0": false}	ResourceManagementCurator
+1.43359999947279	1.7314000006081187	Motion	{"0": false}	ResourceManagementCurator
+1.3654000003953115	3.045399999791698	Motion	{"0": false}	ResourceManagementCurator
+1.382999999805179	1.3417000000117696	Motion	{"0": true}	ResourceManagementCurator
+1.129199999923003	1.089000000320084	Motion	{"0": true}	ResourceManagementCurator
+0.4902000000583939	0.5579999997280538	Motion	{"0": true}	ResourceManagementCurator
+2.423599999929138	1.7996000005950918	Motion	{"0": true}	ResourceManagementCurator
+4.864799999268143	28.873399999611138	Fire	{"0": false, "fromCurator": true}	ResourceManagementCurator
+1.1358000001564506	2.145800000107556	Motion	{"0": false}	ResourceManagementCurator
+1.8632000001161941	10.705800000323507	Motion	{"0": true}	ResourceManagementCurator
+1.2170999998488696	1.690299999609124	Motion	{"0": true}	ResourceManagementCurator
+1.5038000001368346	10.748400000011316	Motion	{"0": false}	ResourceManagementCurator
+1.5963000005285721	1.6259000003628898	Motion	{"0": false}	ResourceManagementCurator
+0.6963000005271169	4.493500000535278	Motion	{"0": true}	ResourceManagementCurator
+2.1343000007618684	11.545499999556341	Motion	{"0": false}	ResourceManagementCurator
+0.8147999997163424	5.798099999992701	Motion	{"0": true}	ResourceManagementCurator
+0.5450999997265171	0.7412000004478614	Motion	{"0": true}	ResourceManagementCurator
+0.46010000005480833	1.8023000002358458	Motion	{"0": true}	ResourceManagementCurator
+1.3319999998202547	1.201799999762443	Motion	{"0": true}	ResourceManagementCurator
+0.9054000001924578	7.305799999812734	Motion	{"0": false}	ResourceManagementCurator
+0.6978999999773805	0.933199999963108	Motion	{"0": false}	ResourceManagementCurator
+0.7621999993716599	3.941599999961909	Motion	{"0": true}	ResourceManagementCurator
+1.6916999993554782	36.524599999211205	Fire	{"0": true, "fromCurator": true}	ResourceManagementCurator
+0.7538999998359941	0.8842000006552553	Motion	{"0": false}	ResourceManagementCurator
+1.455300000088755	1.5321000000767526	Motion	{"0": false}	ResourceManagementCurator
+1.623900000595313	2.253200000268407	Motion	{"0": false}	ResourceManagementCurator
+1.0347999996156432	1.1630999997578328	Motion	{"0": false}	ResourceManagementCurator
+0.467900000330701	0.600000000304135	Motion	{"0": true}	ResourceManagementCurator
+0.5226000002949149	0.7230000001072767	Motion	{"0": false}	ResourceManagementCurator
+0.7286999998541432	1.0101999996550148	Motion	{"0": true}	ResourceManagementCurator
+0.8566999995309743	0.6253999999898952	Motion	{"0": true}	ResourceManagementCurator
+0.5730000002586166	0.7807000001776032	Motion	{"0": false}	ResourceManagementCurator
+0.6417000004148576	0.8593000002292683	Motion	{"0": false}	ResourceManagementCurator
+0.4542999995464925	0.9589000001142267	Motion	{"0": true}	ResourceManagementCurator
+0.4773999999088119	0.691000000188069	Motion	{"0": true}	ResourceManagementCurator
+0.4300999999031774	0.6535000002259039	Motion	{"0": true}	ResourceManagementCurator
+0.5427000005511218	0.8505000005243346	Motion	{"0": false}	ResourceManagementCurator
+0.7834999996703118	10.065599999506958	Fire	{"0": false, "fromCurator": true}	ResourceManagementCurator
+0.9790000003704336	1.2007999994239071	Motion	{"0": false}	ResourceManagementCurator
+0.6724999993821257	4.47000000076514	Motion	{"0": true}	ResourceManagementCurator
+0.7635000001755543	4.555700000310026	Motion	{"0": false}	ResourceManagementCurator
+0.8932999999160529	6.1141000005591195	Motion	{"0": true}	ResourceManagementCurator
+0.9972000007110182	5.727400000068883	Motion	{"0": false}	ResourceManagementCurator
+2.5292000000263215	11.607900000853988	Motion	{"0": true}	ResourceManagementCurator
+0.9481999995841761	14.957700000195473	Fire	{"0": true, "fromCurator": true}	ResourceManagementCurator
+0.5363000000215834	0.7415999998556799	Motion	{"0": true}	ResourceManagementCurator
+0.48749999950814527	0.680600000123377	Motion	{"0": true}	ResourceManagementCurator
+0.5318000003171619	0.7446999998137471	Motion	{"0": false}	ResourceManagementCurator
+0.5841000001964858	0.8978000005299691	Motion	{"0": true}	ResourceManagementCurator
+1.1326000003464287	1.0901999994530343	Motion	{"0": true}	ResourceManagementCurator
+0.5430000001069857	0.7341000000451459	Motion	{"0": true}	ResourceManagementCurator
+1.1244999996051774	2.0758000000569155	Motion	{"0": true}	ResourceManagementCurator
+1.568000000588654	1.5533000005234499	Motion	{"0": false}	ResourceManagementCurator
+0.5224999995334656	0.729900000806083	Motion	{"0": false}	ResourceManagementCurator
+0.5565000001297449	0.7630000000062864	Motion	{"0": true}	ResourceManagementCurator
+0.6389000000126543	0.8455000006506452	Motion	{"0": false}	ResourceManagementCurator
+0.6161000001156935	0.8403000001635519	Motion	{"0": true}	ResourceManagementCurator
+0.4656000000977656	18.256499999552034	BrokenEnergySupply	{}	ResourceManagementCurator
+1.1450000001786975	7.334900000387279	Fire	{"0": false, "fromCurator": true}	ResourceManagementCurator
+0.7162000001699198	1.0244999994029058	Motion	{"0": true}	ResourceManagementCurator
+0.43430000005173497	0.6456000000980566	Motion	{"0": false}	ResourceManagementCurator
+0.48019999940152047	8.882500000254367	RepairedEnergySupply	{}	ResourceManagementCurator
+0.5833999994138139	0.7477999997718143	Motion	{"0": false}	ResourceManagementCurator
+1.3380999998844345	1.624900000024354	Motion	{"0": false}	ResourceManagementCurator
+0.47249999988707714	0.7926000007500988	Motion	{"0": false}	ResourceManagementCurator
+1.930999999785854	12.67680000000837	Motion	{"0": true}	ResourceManagementCurator
+1.2385999998514308	1.6223000002355548	Motion	{"0": true}	ResourceManagementCurator
+0.6057000000510016	4.63080000008631	Motion	{"0": false}	ResourceManagementCurator
+0.4656000000977656	22.483499999907508	BrokenEnergySupply	{}	ResourceManagementCurator
+1.1633000003712368	7.039899999654153	Fire	{"0": true, "fromCurator": true}	ResourceManagementCurator
+0.6418999992092722	0.7919999998193816	Motion	{"0": false}	ResourceManagementCurator
+0.7213999997475185	0.9643000003052293	Motion	{"0": true}	ResourceManagementCurator
+0.6063000000722241	0.8262000001195702	Motion	{"0": true}	ResourceManagementCurator
+1.7157000002043787	1.7178999996758648	Motion	{"0": false}	ResourceManagementCurator
+0.522399999681511	0.7356999994954094	Motion	{"0": false}	ResourceManagementCurator
+0.5444000007628347	0.7359000001088134	Motion	{"0": false}	ResourceManagementCurator
+1.6191999993679929	0.8831000004647649	Motion	{"0": true}	ResourceManagementCurator
+1.1082000000897096	2.0697999998446903	Motion	{"0": false}	ResourceManagementCurator
+0.4540999998425832	0.6797000005462905	Motion	{"0": false}	ResourceManagementCurator
+0.5252999999356689	0.7396999999400578	Motion	{"0": true}	ResourceManagementCurator
+0.5191000000195345	0.7344999994529644	Motion	{"0": true}	ResourceManagementCurator
+0.584500000513799	0.781499999902735	Motion	{"0": true}	ResourceManagementCurator
+0.5535000000236323	0.7539000007454888	Motion	{"0": false}	ResourceManagementCurator
+0.5157000005056034	0.7003999999142252	Motion	{"0": true}	ResourceManagementCurator
+0.5049000001235981	18.48580000023503	BrokenEnergySupply	{}	ResourceManagementCurator
+2.489100000275357	12.574400000630703	Fire	{"0": false, "fromCurator": true}	ResourceManagementCurator
+1.406499999575317	1.5844999998080311	Motion	{"0": false}	ResourceManagementCurator
+0.4241999995429069	0.5123999999341322	Motion	{"0": true}	ResourceManagementCurator

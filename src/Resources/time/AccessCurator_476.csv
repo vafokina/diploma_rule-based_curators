@@ -1,0 +1,45 @@
+declare time, millis	run time, millis	fact name	fact params	curator type
+1.3116	42.7848	Violation	{}	AccessCurator
+3.2215999999998246	67.2103999999969	Violation	{}	AccessCurator
+2.025400000000843	19.95179999999408	Access	{"admission": true}	AccessCurator
+3.0456000000000927	23.98579999999839	Access	{"admission": true}	AccessCurator
+2.765199999998913	57.74969999999513	Violation	{}	AccessCurator
+1.8354999999985466	96.05419999999754	Violation	{}	AccessCurator
+1.142999999999006	36.2956999999966	Fire	{"0": true, "fromCurator": true}	AccessCurator
+2.146600000003218	16.6593000000006	Access	{"admission": true}	AccessCurator
+2.1766000000127406	12.644699999995623	Violation	{}	AccessCurator
+1.942000000013877	11.365399999988313	Access	{"admission": false}	AccessCurator
+0.5617999999856238	12.666800000005196	Violation	{}	AccessCurator
+0.6500000000073669	8.925199999993083	Violation	{}	AccessCurator
+0.6066999999916334	55.858999999998105	Access	{"admission": true}	AccessCurator
+0.5053999999518055	11.230300000022453	Fire	{"0": false, "fromCurator": true}	AccessCurator
+0.45490000002246234	17.792999999983294	Violation	{}	AccessCurator
+2.0298999999681655	65.49150000000736	Violation	{}	AccessCurator
+2.376999999967211	8.485100000029888	Access	{"admission": false}	AccessCurator
+0.7942000000298322	12.941399999988334	Access	{"admission": false}	AccessCurator
+0.9630999999785672	25.006100000041442	Violation	{}	AccessCurator
+0.41379999998980566	9.785800000031486	Fire	{"0": true, "fromCurator": true}	AccessCurator
+1.76979999997684	15.850600000021586	Access	{"admission": false}	AccessCurator
+2.6521999999999935	14.238200000022516	Access	{"admission": true}	AccessCurator
+1.9960999999852902	10.071299999992789	Violation	{}	AccessCurator
+0.5884999999921092	5.676700000037727	Violation	{}	AccessCurator
+1.6616999999996551	18.27549999995881	Access	{"admission": true}	AccessCurator
+1.959400000032474	12.801899999999478	Access	{"admission": true}	AccessCurator
+1.8473999999741864	14.259199999969496	Access	{"admission": true}	AccessCurator
+1.5219000000570304	11.646799999994073	Violation	{}	AccessCurator
+0.7299000000102751	5.264900000042871	Access	{"admission": true}	AccessCurator
+0.6113000000596003	11.312599999996564	Fire	{"0": false, "fromCurator": true}	AccessCurator
+0.574200000073688	19.010900000012043	Violation	{}	AccessCurator
+1.4767000000119879	74.99880000000303	Violation	{}	AccessCurator
+0.6236000000399144	3.8071000000172717	Access	{"admission": true}	AccessCurator
+1.5129999999317079	63.81799999996929	Violation	{}	AccessCurator
+3.336300000000847	7.2427000000061525	Access	{"admission": true}	AccessCurator
+2.062700000010409	62.00649999993857	Violation	{}	AccessCurator
+2.3468000000548273	70.51469999998972	Violation	{}	AccessCurator
+0.6981000000223503	3.260100000034072	Access	{"admission": false}	AccessCurator
+0.5666999999220934	13.317400000005364	Fire	{"0": true, "fromCurator": true}	AccessCurator
+1.7664999999169595	19.540699999993194	Access	{"admission": true}	AccessCurator
+0.6238000000848842	7.552600000053644	Violation	{}	AccessCurator
+2.1839999999428983	18.97750000000542	Access	{"admission": true}	AccessCurator
+0.6696000000374625	7.12229999999181	Violation	{}	AccessCurator
+1.6477000000350017	10.996400000067297	Access	{"admission": true}	AccessCurator

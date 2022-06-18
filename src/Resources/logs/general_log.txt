@@ -1,0 +1,62 @@
+2022-06-11 10:33:23.868664 - EventGenerator_512 : curator is active
+2022-06-11 10:33:23.870661 - EventGenerator_512 : event generation has started
+2022-06-11 10:33:24.018311 - SecurityCurator_513 : curator is active
+2022-06-11 10:33:24.019935 - AccessCurator_514 : curator is active
+2022-06-11 10:33:24.021483 - ResourceManagementCurator_515 : curator is active
+2022-06-11 10:33:39.037433 - EventGenerator_512 : send event Motion(False)
+2022-06-11 10:33:39.056032 - EventGenerator_512 : event Motion(False) was sent to curator with id 515
+2022-06-11 10:33:53.924068 - EventGenerator_512 : send event Motion(True)
+2022-06-11 10:33:53.934316 - EventGenerator_512 : event Motion(True) was sent to curator with id 515
+2022-06-11 10:33:54.021071 - ResourceManagementCurator_515 : turn on the light
+2022-06-11 10:33:58.913029 - EventGenerator_512 : send event BrokenBulb()
+2022-06-11 10:33:58.934116 - EventGenerator_512 : event BrokenBulb() was sent to curator with id 515
+2022-06-11 10:33:59.002116 - ResourceManagementCurator_515 : the bulb is broken
+2022-06-11 10:33:59.006192 - ResourceManagementCurator_515 : a request has been sent to the curator to call repairer
+2022-06-11 10:33:59.129824 - SecurityCurator_513 : call to the repairer
+2022-06-11 10:34:09.010640 - EventGenerator_512 : send event Motion(False)
+2022-06-11 10:34:09.025102 - EventGenerator_512 : event Motion(False) was sent to curator with id 515
+2022-06-11 10:34:09.075107 - ResourceManagementCurator_515 : turn off the light
+2022-06-11 10:34:23.030025 - EventGenerator_512 : event generation is stopped
+2022-06-11 10:34:32.776271 - EventGenerator_512 : send event Fire(True)
+2022-06-11 10:34:32.797791 - EventGenerator_512 : event Fire(True) was sent to curator with id 513
+2022-06-11 10:34:32.922799 - SecurityCurator_513 : the fire breaks out
+2022-06-11 10:34:32.928808 - SecurityCurator_513 : alert system is on
+2022-06-11 10:34:32.934969 - SecurityCurator_513 : a notice about the fire has been sent to all curators
+2022-06-11 10:34:32.962986 - SecurityCurator_513 : call to the firefighters
+2022-06-11 10:34:33.131980 - ResourceManagementCurator_515 : energy supply is off
+2022-06-11 10:34:33.135978 - ResourceManagementCurator_515 : emergency lights are switched on
+2022-06-11 10:34:33.143979 - ResourceManagementCurator_515 : the fire breaks out
+2022-06-11 10:34:33.164979 - AccessCurator_514 : the fire breaks out
+2022-06-11 10:34:33.170981 - AccessCurator_514 : the entry is blocked to everyone, emergency exits are open
+2022-06-11 10:36:13.965150 - EventGenerator_512 : send event Fire(False)
+2022-06-11 10:36:13.977446 - EventGenerator_512 : event Fire(False) was sent to curator with id 513
+2022-06-11 10:36:14.092036 - SecurityCurator_513 : the fire extinguished
+2022-06-11 10:36:14.096037 - SecurityCurator_513 : alert system is off
+2022-06-11 10:36:14.113840 - SecurityCurator_513 : a notice about the end of the fire has been sent to all curators
+2022-06-11 10:36:14.298132 - ResourceManagementCurator_515 : energy supply is switched on
+2022-06-11 10:36:14.327115 - AccessCurator_514 : the fire extinguished
+2022-06-11 10:36:14.345119 - AccessCurator_514 : the entry is restricted, emergency exits are close
+2022-06-11 10:36:14.364117 - ResourceManagementCurator_515 : emergency lights are off
+2022-06-11 10:36:14.366114 - ResourceManagementCurator_515 : the fire extinguished
+2022-06-11 10:36:17.887709 - EventGenerator_512 : send event RepairedBulb()
+2022-06-11 10:36:17.911170 - EventGenerator_512 : event RepairedBulb() was sent to curator with id 515
+2022-06-11 10:36:18.021203 - ResourceManagementCurator_515 : the bulb is repaired
+2022-06-11 10:36:22.281949 - SecurityCurator_516 : curator is active
+2022-06-11 10:36:32.237040 - EventGenerator_512 : send event Fire(True)
+2022-06-11 10:36:32.255249 - EventGenerator_512 : event Fire(True) was sent to curator with id 516
+2022-06-11 10:36:32.401283 - SecurityCurator_516 : the fire breaks out
+2022-06-11 10:36:32.403284 - SecurityCurator_516 : alert system is on
+2022-06-11 10:36:32.413097 - SecurityCurator_516 : a notice about the fire has been sent to all curators
+2022-06-11 10:36:32.452075 - SecurityCurator_516 : call to the firefighters
+2022-06-11 10:36:32.611519 - SecurityCurator_513 : the fire breaks out
+2022-06-11 10:36:32.624520 - SecurityCurator_513 : alert system is on
+2022-06-11 10:36:32.657518 - AccessCurator_514 : the fire breaks out
+2022-06-11 10:36:32.661519 - ResourceManagementCurator_515 : energy supply is off
+2022-06-11 10:36:32.666517 - AccessCurator_514 : the entry is blocked to everyone, emergency exits are open
+2022-06-11 10:36:32.676516 - ResourceManagementCurator_515 : emergency lights are switched on
+2022-06-11 10:36:32.679517 - ResourceManagementCurator_515 : the fire breaks out
+2022-06-11 10:38:38.810340 - AccessCurator_514 : curator is closed
+2022-06-11 10:38:40.107757 - SecurityCurator_513 : curator is closed
+2022-06-11 10:38:40.212163 - ResourceManagementCurator_515 : curator is closed
+2022-06-11 10:38:40.725525 - SecurityCurator_516 : curator is closed
+2022-06-11 10:38:41.001368 - EventGenerator_512 : curator is closed

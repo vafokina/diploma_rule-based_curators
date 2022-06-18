@@ -1,0 +1,41 @@
+declare time, millis	run time, millis	fact name	fact params	curator type
+0.5114000000000001	1.7672999999999999	Motion	{"0": false}	ResourceManagementCurator
+0.8841999999997796	24.268800000001534	Motion	{"0": true}	ResourceManagementCurator
+2.9605000000003656	55.55259999999862	BrokenBulb	{}	ResourceManagementCurator
+1.4858999999987077	16.659900000000505	Motion	{"0": false}	ResourceManagementCurator
+2.862199999995596	69.67290000000048	BrokenBulb	{}	ResourceManagementCurator
+0.9286999999957857	3.740999999997996	Motion	{"0": false}	ResourceManagementCurator
+1.663700000001711	73.79410000000064	BrokenBulb	{}	ResourceManagementCurator
+1.2636999999955378	3.2172999999957597	Motion	{"0": false}	ResourceManagementCurator
+0.9184999999973797	29.639200000005417	RepairedBulb	{}	ResourceManagementCurator
+1.448599999989142	68.04950000000076	BrokenBulb	{}	ResourceManagementCurator
+1.3390999999955966	4.249600000008513	Motion	{"0": false}	ResourceManagementCurator
+1.5375000000119599	76.11130000000799	BrokenBulb	{}	ResourceManagementCurator
+1.222800000007851	43.581700000004275	RepairedBulb	{}	ResourceManagementCurator
+1.4524999999991905	97.03060000001074	BrokenBulb	{}	ResourceManagementCurator
+1.9424999999984038	6.489599999994766	Motion	{"0": false}	ResourceManagementCurator
+1.3178999999894359	50.73469999999247	BrokenBulb	{}	ResourceManagementCurator
+1.1741000000000668	35.240299999998115	RepairedBulb	{}	ResourceManagementCurator
+2.220199999996453	19.32560000000194	Motion	{"0": true}	ResourceManagementCurator
+1.2480000000039126	21.76690000000292	RepairedBulb	{}	ResourceManagementCurator
+1.5994999999975335	19.054999999994493	RepairedBulb	{}	ResourceManagementCurator
+1.3287000000019589	19.97260000000267	RepairedBulb	{}	ResourceManagementCurator
+0.5304000000023734	33.2587999999987	BrokenBulb	{}	ResourceManagementCurator
+0.5057999999991125	1.5361999999896625	Motion	{"0": true}	ResourceManagementCurator
+1.3285999999936848	14.962900000000445	RepairedBulb	{}	ResourceManagementCurator
+0.5764999999939846	57.16809999998418	BrokenEnergySupply	{}	ResourceManagementCurator
+0.4609000000073138	2.5195999999994	Motion	{"0": false}	ResourceManagementCurator
+0.7034000000203378	12.82149999997273	Fire	{"0": true, "fromCurator": true}	ResourceManagementCurator
+1.7842999999970743	71.17070000001036	BrokenBulb	{}	ResourceManagementCurator
+1.3237000000003718	3.3580999999855976	Motion	{"0": false}	ResourceManagementCurator
+1.728200000002289	67.33540000001881	BrokenBulb	{}	ResourceManagementCurator
+1.535799999999199	3.007800000006	Motion	{"0": true}	ResourceManagementCurator
+1.3218999999935477	65.33500000000458	BrokenBulb	{}	ResourceManagementCurator
+1.6085000000032323	12.771299999997154	Motion	{"0": false}	ResourceManagementCurator
+1.289099999979726	3.475199999996903	Motion	{"0": true}	ResourceManagementCurator
+2.540699999997287	69.89390000001094	BrokenBulb	{}	ResourceManagementCurator
+1.540699999992512	6.737500000014052	Motion	{"0": true}	ResourceManagementCurator
+1.0256000000197218	10.21059999999352	Fire	{"0": false, "fromCurator": true}	ResourceManagementCurator
+0.5002999999987878	1.2509000000022752	Motion	{"0": false}	ResourceManagementCurator
+0.8123000000068714	12.426700000020219	RepairedBulb	{}	ResourceManagementCurator
+2.0665000000121836	69.16830000000118	BrokenBulb	{}	ResourceManagementCurator

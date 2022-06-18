@@ -1,0 +1,9 @@
+declare time, millis	run time, millis	fact name	fact params	curator type
+0.4299	1.2712999999999999	Motion	{"0": false}	ResourceManagementCurator
+0.8125000000003268	6.642100000000539	Motion	{"0": true}	ResourceManagementCurator
+0.38419999999916854	23.38800000000063	BrokenBulb	{}	ResourceManagementCurator
+0.532299999999708	6.1627999999984695	Motion	{"0": false}	ResourceManagementCurator
+1.5792999999959534	36.63039999999995	Fire	{"0": true, "fromCurator": true}	ResourceManagementCurator
+0.7243000000016764	50.229399999977886	Fire	{"0": false, "fromCurator": true}	ResourceManagementCurator
+0.5270000000052733	9.344900000002099	RepairedBulb	{}	ResourceManagementCurator
+1.5817000000026837	49.301799999994955	Fire	{"0": true, "fromCurator": true}	ResourceManagementCurator
