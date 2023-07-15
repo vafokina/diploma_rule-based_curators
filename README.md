@@ -32,7 +32,7 @@
 Настройка системы происходит через конфигурационный файл. В том числе в случае запуска куратора его тип определяется файлом конфигурации. Для удобства тип также может быть переопределен через переменную, передаваемую при запуске приложения.
 
 # Bachelor's final project
-Topic: **Designing rule-based virtual curators for smart buildings**  
+Topic: **Development of rule-based virtual curators for smart buildings**  
 Educational Program: Software Engineering  
 University: National Research University Higher School of Economics
 
